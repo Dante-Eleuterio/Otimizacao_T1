@@ -1,2 +1,2 @@
 g++ t1.cpp -o batata
-./batata <teste.txt | lp_solve
+./batata < exemplos/teste.txt | lp_solve
